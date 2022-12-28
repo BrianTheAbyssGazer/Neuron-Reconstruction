@@ -7,7 +7,7 @@ skeleton_analysis.ipynb
 
 #Here is an comparison of the segemntation and original image
 
-![Alt text](images/segmentation1.jpg?raw=true)
+![segmentation1](images/segmentation1.jpg?raw=true)
 ![Alt text](images/segmentation2.jpg?raw=true)
 ![Alt text](images/segmentation3.jpg?raw=true)
 ![Alt text](images/segmentation4.jpg?raw=true)
