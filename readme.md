@@ -4,7 +4,7 @@
 ### If you really want to run it by your self, run files in this order:
 - 3d_pattern_generation.ipynb
 - segmentation3d.ipynb (could take several hours depending on your GPU)
-- Medial_axis_3d.ipynb
+- skeletonization.ipynb
 - skeleton_analysis.ipynb
 
 ### Here is an comparison of the segemntation and original image
