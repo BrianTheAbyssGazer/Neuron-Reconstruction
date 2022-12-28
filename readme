@@ -5,5 +5,11 @@ segmentation3d.ipynb (could take several hours depending on your GPU)
 Medial_axis_3d.ipynb
 skeleton_analysis.ipynb
 
-Here is an outcome of the segemntation:
+Here is an comparison of the segemntation and original image:
+![alt text](https://github.com/BrianTheAbyssGazer/Neuron-Reconstruction/tree/master/images/segmentation1.jpg?)
+![alt text](https://github.com/BrianTheAbyssGazer/Neuron-Reconstruction/tree/master/images/segmentation2.jpg?)
+![alt text](https://github.com/BrianTheAbyssGazer/Neuron-Reconstruction/tree/master/images/segmentation3.jpg?)
+![alt text](https://github.com/BrianTheAbyssGazer/Neuron-Reconstruction/tree/master/images/segmentation4.jpg?)
+![alt text](https://github.com/BrianTheAbyssGazer/Neuron-Reconstruction/tree/master/images/segmentation5.jpg?)
+![alt text](https://github.com/BrianTheAbyssGazer/Neuron-Reconstruction/tree/master/images/segmentation6.jpg?)
 
