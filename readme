@@ -1,7 +1,9 @@
 It takes about 1 day to run the whole process (I'm using Gforce 1080), so you may just want to look at the outcome at: https://youtu.be/hjQsEM5q8Mc
 If you really want to run it by your self, run files in this order:
 3d_pattern_generation.ipynb
-segmentation3d.ipynb
+segmentation3d.ipynb (could take several hours depending on your GPU)
 Medial_axis_3d.ipynb
 skeleton_analysis.ipynb
+
+Here is an outcome of the segemntation:
 
