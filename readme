@@ -5,7 +5,8 @@ segmentation3d.ipynb (could take several hours depending on your GPU)
 Medial_axis_3d.ipynb
 skeleton_analysis.ipynb
 
-#Here is an comparison of the segemntation and original image:
+#Here is an comparison of the segemntation and original image
+
 ![Alt text](images/segmentation1.jpg?raw=true)
 ![Alt text](images/segmentation2.jpg?raw=true)
 ![Alt text](images/segmentation3.jpg?raw=true)
