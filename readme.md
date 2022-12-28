@@ -1,4 +1,4 @@
-### It takes about 1 day to run the whole process (I'm using Gforce 1080), so you may just want to look at the outcome: 
+### It takes about 1 day to run the whole process (I'm using Gforce 1080), so you may just want to check this video which shows the outcome: 
 [![](http://img.youtube.com/vi/hjQsEM5q8Mc/0.jpg)](http://www.youtube.com/watch?v=hjQsEM5q8Mc)
 
 ### If you really want to run it by your self, run files in this order:
