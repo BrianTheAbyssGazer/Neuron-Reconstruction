@@ -5,7 +5,7 @@
 - 3d_pattern_generation.ipynb
 - segmentation3d.ipynb (could take several hours depending on your GPU)
 - skeletonization.ipynb
-- skeleton_analysis.ipynb
+- skeleton_analysis.ipynb (If you are not running on windows system, you need to recompile .mod files in the 'biophsical mods' folder using NERUON)
 
 ### Here is an comparison of the segemntation and original image
 
